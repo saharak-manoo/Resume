@@ -1,10 +1,10 @@
 .bg-y{
 	background-color: #F1C40F;
-	height: 650px;
+	height: 850px;
 }
 .bg-g{
 	background-color: #1B2631;
-	height: 650px;
+	height: 850px;
 }
 .bg-red{
 	background-color: #E74C3C;
@@ -39,5 +39,24 @@ body {
 }
 
 h1, h2, h3, h4, i, h5, form, div, a, p, input, lable {
+	font-family: 'Anton', sans-serif;
+}
+table.t {
+    font-family: 'Anton', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td.t, th.t {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr.t:nth-child(even) {
+    background-color: #dddddd;
+}
+.whitetxt{
+	color: #ffffff;
 	font-family: 'Anton', sans-serif;
 }
