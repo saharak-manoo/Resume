@@ -18,14 +18,11 @@
 	background-color: #CACFD2;
 	height: 400px;
 }
-h1#w{
+h1,h4#w{
 	color: #ffffff;
 
 }
-h4#w{
-	color: #ffffff;
 
-}
 .hr-y{
 	background-color: #F1C40F;
 	color: #F1C40F;
@@ -36,4 +33,11 @@ h4#w{
 }
 h1#w{
 	color: #ffffff;
+}
+body {
+	font-family: 'Anton', sans-serif;
+}
+
+h1, h2, h3, h4, i, h5, form, div, a, p, input, lable {
+	font-family: 'Anton', sans-serif;
 }
