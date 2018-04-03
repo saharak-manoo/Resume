@@ -1,3 +1,9 @@
+html,body{
+	padding: 0px;
+	margin: 0px;
+	height: 100%;
+}
+
 .bg-y{
 	background-color: #F1C40F;
 	height: 950px;
@@ -34,6 +40,9 @@ h1,h4,h2#w{
 h1#w{
 	color: #ffffff;
 }
+h4#w{
+	color: #ffffff;
+}
 body {
 	font-family: 'Anton', sans-serif;
 }
@@ -60,3 +69,34 @@ tr.t:nth-child(even) {
 	color: #ffffff;
 	font-family: 'Anton', sans-serif;
 }
+.s1{
+	width : 150px;
+	 height :150px;
+}
+.s2{
+	width : 120px;
+	 height :120px;
+}
+.s3{
+	width : 95px;
+	 height :95px;
+}
+.s4{
+	width : 85px;
+	 height :85px;
+}
+.s5{
+	width : 75px;
+	 height :75px;
+}
+.s6{
+	width : 60px;
+	 height :60px;
+}
+.Profile{
+	width : 250px;
+	 height :250px;
+}
+img{ max-width:100%; border:none;} 
+.pic{ float:left; width:31.2%; margin:0 1% 0 1%;}
+
