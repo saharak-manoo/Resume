@@ -2,15 +2,17 @@ html,body{
 	padding: 0px;
 	margin: 0px;
 	height: 100%;
+	 font-size: 100%;
 }
+
 
 .bg-y{
 	background-color: #F1C40F;
-	height: 950px;
+	height: 900px;
 }
 .bg-g{
 	background-color: #1B2631;
-	height: 950px;
+	height: 900px;
 }
 .bg-red{
 	background-color: #E74C3C;
@@ -37,10 +39,14 @@ h1,h4,h2#w{
 	background-color: #E74C3C;
 	
 }
+
 h1#w{
 	color: #ffffff;
 }
 h4#w{
+	color: #ffffff;
+}
+h6#w{
 	color: #ffffff;
 }
 body {
@@ -68,6 +74,7 @@ tr.t:nth-child(even) {
 .whitetxt{
 	color: #ffffff;
 	font-family: 'Anton', sans-serif;
+	font-size: 62.5%;
 }
 .s1{
 	width : 150px;
